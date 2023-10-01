@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Results"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="289dp"
+            android:background="@color/DarkPurple"
+            android:orientation="vertical"
+            android:padding="24dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true">
+
+            <TextView
+                android:id="@+id/messageText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:gravity="center"
+                android:text="Result"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/startAgain"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:backgroundTint="@color/white"
+                android:text="Start Again"
+                android:textColor="@color/Lavender"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="20dp">
+
+            </Button>
+
+            <Button
+                android:id="@+id/backMenu"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:backgroundTint="@color/white"
+                android:text="Back to Menu"
+                android:textColor="@color/Lavender"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="20dp">
+
+            </Button>
+
+
+            <Button
+                android:id="@+id/exitResult"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:backgroundTint="@color/white"
+                android:text="Exit Game"
+                android:textColor="@color/Lavender"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:cornerRadius="20dp">
+
+            </Button>
+
+
+        </LinearLayout>
+
+</RelativeLayout>
