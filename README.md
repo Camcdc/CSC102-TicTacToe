@@ -40,4 +40,4 @@ They can then either choose to play again, go back to the menu, or exit the app 
 
 **Limitations:**
 The limitations are that the player cannot play against the computer, and you can only include two players.
-Another limitation is that the game only uses a 3x3 board and the board be increased.
+Another limitation is that the game only uses a 3x3 board, while the board cannot be increased.
