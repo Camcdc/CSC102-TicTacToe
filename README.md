@@ -1,7 +1,11 @@
 # CSC102-TicTacToe
+
 Group name: Byte Me
+
 Group Members: Chimwemwe Mwansa, Cameron Campbell, Malebo Mabilu, Karabo Ntsie, Noluthando Kalmash.
+
 Group Mentor: Alden Bobby
+
 Project Title: Tic Tac Toe
 
 **Project Page:** 
