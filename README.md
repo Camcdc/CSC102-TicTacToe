@@ -5,13 +5,16 @@ Group Mentor: Alden Bobby
 Project Title: Tic Tac Toe
 
 **Project Page:** 
+
 **Instructions for use:** 
 When the user clicks on the app logo they will be directed to the menu. The menu has three buttons.
 The play button that directs you to the game board where the two players enter their names and start playing. '
 The demo button that directs you to the demo video, which explains how to play a game. The last button is the exit button that exits the game if you do not want to play anymore.
+
 **Tools used:**
 We used android studios to create our project, to design the interface of the game we used Canva and android studios, for our demo video we used CapCut. 
 We pushed our code to GitHub and all the changes. For our Project proposal and the README file we used Microsoft Word. Some of our code was written in notepad ++.
+
 **Concepts used:**
 In our project we created custom classes, namely AddPlayers, Demo, Display, Results and the MainActivity.
 The player class is mostly about adding your players and entering the player names and it mostly uses string manipulation when the user enters the name of the player. 
