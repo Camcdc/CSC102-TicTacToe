@@ -9,6 +9,7 @@ Group Mentor: Alden Bobby
 Project Title: Tic Tac Toe
 
 **Project Page:** 
+https://github.com/Camcdc/CSC102-TicTacToe.git
 
 **Instructions for use:** 
 When the user clicks on the app logo they will be directed to the menu. The menu has three buttons.
